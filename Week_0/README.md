@@ -18,6 +18,3 @@ Resources:
 
 ## Today's Project
 - Get one p5.js project working on your browser to play around with
-
-## Homework
-- Read:
