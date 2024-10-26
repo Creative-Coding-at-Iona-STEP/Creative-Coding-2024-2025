@@ -17,7 +17,4 @@ Resources:
     - Explore p5js Projects of Your Own
 
 ## Today's Project
-    - Get one p5.js project working on your browser to play around with
-
-## This Week's Question
-    - Why learn creative coding?
+- Get one p5.js project working on your browser to play around with
