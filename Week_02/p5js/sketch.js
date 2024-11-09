@@ -1,7 +1,9 @@
-function setup() {
-  createCanvas(400, 400);
+function setup() { // setup sketch
+  createCanvas(400, 400); // draws canvas that 400 x 400 pixels
 }
 
-function draw() {
-  background(220);
+function draw() { // draws the sketch
+  background(220); // gray background 
+
+  // Your code here!
 }
